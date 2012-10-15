@@ -1,6 +1,8 @@
 ;;; haxe-eldoc.el --- invoke haxe compiler to generate eldoc hints
 ;; Author: Amit Patel <amitp@cs.stanford.edu>
 ;; Written: September 2012
+;; License: MIT
+;; (please feel free to use this or parts of this for your own setup)
 
 ;;; Commentary:
 ;;
