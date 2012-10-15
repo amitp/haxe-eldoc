@@ -29,6 +29,8 @@
 ;;      or tested under different configurations
 ;;   3. I have an SSD so it's possible this won't run fast enough on
 ;;      other computers (I think eldoc is blocking)
+;;   4. I don't know if it works on nested directories; I've only
+;;      tested it at the top level.
 
 (defun get-haxe-data-1 (filename pos)
   "Invoke Haxe to get the documentation string for FILENAME at POS"
